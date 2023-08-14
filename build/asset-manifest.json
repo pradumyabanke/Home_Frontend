@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c818c36.css",
+    "main.js": "/static/js/main.b85789df.js",
+    "static/media/Logo2.png": "/static/media/Logo2.2c77fd929ad5fcf6e6fa.png",
+    "static/media/appstore-logo.svg": "/static/media/appstore-logo.6c42810e1d8283112608abf23319a977.svg",
+    "static/media/google-play-logo.svg": "/static/media/google-play-logo.95677316b5271f7db0599ae2980f9bdd.svg",
+    "static/media/nav-services.svg": "/static/media/nav-services.9d46498a7f29c652945c51a7fbf70558.svg",
+    "static/media/nav-blog.svg": "/static/media/nav-blog.985d57e6550c1cb82137944edab26764.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/nav-home.svg": "/static/media/nav-home.3f88502e369773e1ee1b2b003a56a9a4.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.4c818c36.css.map": "/static/css/main.4c818c36.css.map",
+    "main.b85789df.js.map": "/static/js/main.b85789df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c818c36.css",
+    "static/js/main.b85789df.js"
+  ]
+}
