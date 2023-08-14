@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1,
+        "title": "House Cleaning",
+        "description": "Professional house cleaning services for residential and commercial properties.",
+        "image": "https://dariapp.com/wp-content/uploads/2021/05/HouseCleaning_SingleVisit-1024x683.png",
+        "category":"Home maintainance",
+        "range":"SAR2.5k - SAR25k",
+        "rating":4
+      },
+      {
+        "id": 2,
+        "title": "House Painting",
+        "description": "Professional painting services for interior and exterior surfaces.",
+        "image": "https://hometriangle.com/app/assets/images/house-painting-2.webp",
+        "category":"Home maintainance",
+        "range":"SAR6k - SAR3L",
+        "rating":3
+      },
+      {
+        "id": 3,
+        "title": "Water Tank Cleaning",
+        "description": "Efficient and reliable cleaning services for water tank .",
+        "image": "https://hometriangle.com/app/assets/images/watertank1.webp",
+        "category":"Home maintainance",
+        "range":"SAR600 - SAR4k",
+        "rating":3
+        
+      },
+      {
+        "id": 4,
+        "title": "Pest Control Services",
+        "description": "Professional pest control services for homes.",
+        "image": "https://hometriangle.com/app/assets/images/pest-control-1.webp",
+        "category":"Home maintainance",
+        "range":"SAR900 - SAR2k",
+        "rating":4
+        
+      },
+      {
+        "id": 5,
+        "title": "Home Renovation",
+        "description": "Complete home renovation services including lawn maintenance and garden design.",
+        "image": "https://hometriangle.com/app/assets/images/home-renovation-1.webp",
+        "category":"Home remodelling",
+        "range":"SAR25k - SAR3L",
+        "rating":3
+      },
+      {
+        "id": 6,
+        "title": "Kitchen Renovation",
+        "description": "Professional kitchen remodeling services to create your dream kitchen.",
+        "image": "https://hometriangle.com/app/assets/images/kitchen-renovation.webp",
+        "category":"Home remodelling",
+        "range":"SAR15k - SAR1.5L",
+        "rating":3
+      },
+      {
+        "id": 7,
+        "title": "Bathroom Renovation",
+        "description": "Heating, ventilation, and air conditioning services for optimal indoor comfort.",
+        "image": "https://hometriangle.com/app/assets/images/bathroom-renovation.webp",
+        "category":"Home remodelling",
+        "range":"SAR5k - SAR50k",
+        "rating":4
+      },
+      {
+        "id": 8,
+        "title": "Mosquito Net Installation",
+        "description": "Effective pest control services to eliminate pests from your property.",
+        "image": "https://hometriangle.com/app/assets/images/mosquito-mesh-4.webp",
+        "category":"Home remodelling",
+        "range":"SAR3k - SAR20k",
+        "rating":4
+      },
+      {
+        "id": 9,
+        "title": "AC Repair Services",
+        "description": "Professional roofing services including repairs, installations, and inspections.",
+        "image": "https://hometriangle.com/app/assets/images/ac-repair-1.webp",
+        "category":"Appliances",
+        "range":"SAR500 - SAR5k",
+        "rating":4
+      },
+      {
+        "id": 10,
+        "title": "Washing Machine Repair",
+        "description": "Expert appliance repair services for all major brands and models.",
+        "image": "https://hometriangle.com/app/assets/images/washing-machine.webp",
+        "category":"Appliances",
+        "range":"SAR400 - SAR6.5k",
+        "rating":4
+      },
+      {
+        "id": 11,
+        "title": "Refrigerator Repair",
+        "description": "Creative interior design services to transform your living spaces.",
+        "image": "https://hometriangle.com/app/assets/images/refrigerator.webp",
+        "category":"Appliances",
+        "range":"SAR400 - SAR7.5k",
+        "rating":4
+      },
+      {
+        "id": 12,
+        "title": "Gas Stove repair",
+        "description": "High-quality flooring services including installation and refinishing.",
+        "image": "https://hometriangle.com/app/assets/images/gas-stove.webp",
+        "category":"Appliances",
+        "range":"SAR400 - SAR2.5k",
+        "rating":4
+      },
+      {
+        "id": 13,
+        "title": "Wedding Planners",
+        "description": "Professional window and door installation and repair services.",
+        "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/wedding-planners.webp",
+        "category":"Events",
+        "range":"SAR50k - SAR6L",
+        "rating":4
+      },
+      {
+        "id": 14,
+        "title": "Party Planners",
+        "description": "Professional window and door installation and repair services.",
+        "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/party-planners.webp",
+        "category":"Events",
+        "range":"SAR6k - SAR3L",
+        "rating":4
+      },
+      {
+        "id": 15,
+        "title": "Wedding Photography",
+        "description": "Reliable moving and storage services for a stress-free relocation.",
+        "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/wedding-photography.webp",
+        "category":"Events",
+        "range":"SAR50k - SAR6L",
+        "rating":4
+      },
+      {
+        "id": 16,
+        "title": "Stage Decoration",
+        "description": "Expert bathroom remodeling services to enhance your bathroom space.",
+        "image": "https://hometriangle.com/web/assets/images/2x-600x400/webp/stage-decorator.webp",
+        "category":"Events",
+        "range":"SAR10k - SAR5L",
+        "rating":4
+      },
+      {
+        "id": 17,
+        "title": "Makeup Artist",
+        "description": "Professional kitchen remodeling services to create your dream kitchen.",
+        "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/makeup-artist.jpg",
+        "category":"Personal",
+        "rating":4
+      },
+      {
+        "id": 18,
+        "title": "Physiotherapy",
+        "description": "Custom home theater installations and audiovisual solutions.",
+        "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/physiotherapy.jpg",
+        "category":"Personal",
+        "rating":4
+      },
+      {
+        "id": 19,
+        "title": "Fitness Trainer",
+        "description": "Durable fencing solutions for enhanced privacy and security.",
+        "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/fitness-trainers.jpg",
+        "category":"Personal",
+        "rating":4
+      },
+      {
+        "id": 20,
+        "title": "Swimming Classes",
+        "description": "Expert plastering and drywall services for smooth and seamless walls.",
+        "image": "https://hometriangle.com/web/assets/images/2x-600x400/jpg/swimming-classes.jpg",
+        "category":"Personal",
+        "rating":4
+      }
+      
+  ]

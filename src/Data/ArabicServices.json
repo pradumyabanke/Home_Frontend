@@ -1,0 +1,1997 @@
+[
+  {
+    "id": 1,
+    "title": "خدمة تنظيف السجاد",
+    "description": "",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1677234148093-0115f38be0e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FycGV0JTIwY2xlYW5pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR150 - SAR445",
+    "rating": 4,
+    "min_Price": 150,
+    "ordersPerDay": 6,
+    "types": null,
+    "questions": [
+      {
+        "question": "حدد حجم السجاد",
+        "options": [
+          { "value": "أقل من 22 متر مربع", "price": 150 },
+          { "value": "24 متر مربع", "price": 165 },
+          { "value": "25 متر مربع", "price": 173 },
+          { "value": "28 متر مربع", "price": 195 },
+          { "value": "30 متر مربع", "price": 208 },
+          { "value": "32 متر مربع", "price": 222 },
+          { "value": "35 متر مربع", "price": 243 },
+          { "value": "36 متر مربع", "price": 250 },
+          { "value": "40 متر مربع", "price": 275 },
+          { "value": "42 متر مربع", "price": 290 },
+          { "value": "56 متر مربع", "price": 390 },
+          { "value": "64 متر مربع", "price": 445 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "تعقيم المنازل والمنشآت",
+    "description": "( التعقيم بمواد امريكية وفرنسية مصرح بها من هيئة الغذاء والدواء ومعتمدة من وزارة الصحة وهي: 1-معقم 3m الامريكي .2-معقم Anios الفرنسي.",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U3RlcmlsaXppbmclMjBvZiUyMGhvbWUlMjBzZXJ2aWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Pest control",
+    "range": "SAR350 - SAR8000",
+    "rating": 4,
+    "min_Price": null,
+    "ordersPerDay": 6,
+    "types": {
+      "question": "Select treatment plan",
+      "options": [
+        "Single Treatment 250 m2 or Less",
+        "3 visits treatments",
+        "7 visits treatments",
+        "12 VisitsTreatments"
+      ]
+    },
+    "questions": [
+      {
+        "question": "Select area Size",
+        "options": [
+          {
+            "type": "Single Treatment 250 m2 or Less",
+            "value": "Area Size 0-249 SQM",
+            "price": 350
+          },
+          {
+            "type": "Single Treatment 250 m2 or Less",
+            "value": "Area Size 250-500 SQM",
+            "price": 600
+          },
+          {
+            "type": "Single Treatment 250 m2 or Less",
+            "value": "Area More than 500 SQM",
+            "price": 50
+          },
+          {
+            "type": "3 visits treatments",
+            "value": "Area Size 0-249 SQM",
+            "price": 1350
+          },
+          {
+            "type": "3 visits treatments",
+            "value": "Area Size 250-500 SQM",
+            "price": 2000
+          },
+          {
+            "type": "3 visits treatments",
+            "value": "Area More than 500 SQM",
+            "price": 50
+          },
+          {
+            "type": "7 visits treatments",
+            "value": "Area Size 0-249 SQM",
+            "price": 3000
+          },
+          {
+            "type": "7 visits treatments",
+            "value": "Area Size 250-500 SQM",
+            "price": 5000
+          },
+          {
+            "type": "7 visits treatments",
+            "value": "Area More than 500 SQM",
+            "price": 50
+          },
+          {
+            "type": "12 VisitsTreatments",
+            "value": "Area Size 0-249 SQM",
+            "price": 5000
+          },
+          {
+            "type": "12 VisitsTreatments",
+            "value": "Area Size 250-500 SQM",
+            "price": 8000
+          },
+          {
+            "type": "12 VisitsTreatments",
+            "value": "Area More than 500 SQM",
+            "price": 50
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "خدمة تنظيف المجالس",
+    "description": "",
+    "details": [
+      "تنظيف عميق للجلسة بأجهزة تنظيف خاصه. ",
+      "تنظيف السجاد والستائر.",
+      "تنظيف الطاولات والنوافذ مفاتيح الكهرباء",
+      "نظيف خفيف للمجلس يشمل: تنظيف عادي للجلسة بشفط الغبار والأتربة المترسبة فيه. ",
+      "تكلفة اضافية لتنظيف الاكسسوارات والتحف والثريات ونحوه"
+    ],
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFqYWxlcyUyMGRlZXAlMjBjbGVhbmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR250 - SAR400",
+    "rating": 4,
+    "min_Price": null,
+    "ordersPerDay": 2,
+    "types": {
+      "question": "نوع التنظيف",
+      "options": ["تنظيف عميق", "تنظيف خفيف"]
+    },
+
+    "questions": [
+      {
+        "question": "حجم المجلس",
+        "options": [
+          {
+            "type": "تنظيف عميق",
+            "value": "صغير (20 متر مربع أو أقل)",
+            "price": 320
+          },
+          {
+            "type": "تنظيف عميق",
+            "value": "كبير ( 21 متر مربع - 35 متر مربع )",
+            "price": 399
+          },
+          {
+            "type": "تنظيف خفيف",
+            "value": "صغير (20 متر مربع أو أقل)",
+            "price": 250
+          },
+          {
+            "type": "تنظيف خفيف",
+            "value": "كبير ( 21 متر مربع - 35 متر مربع )",
+            "price": 300
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "خدمة تنظيف المطبخ",
+    "description": "التنظيف العميق للمطبخ يتم فيها، تنظيف الجدران والأرضيات - الشبابيك والمراويح - الدواليب من الخارج - الأجهزة المنزلية للمطبخ",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGtpdGNoZW4lMjBkZWVwJTIwY2xlYW5pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Home cleaning",
+    "range": "SAR300 - SAR500",
+    "rating": 4,
+    "min_Price": 150,
+    "ordersPerDay": 2,
+    "questions": [
+      {
+        "question": "نوع المطبخ",
+        "options": [
+          {
+            "value": "مطبخ داخلي لفيلا ( 20 متر مربع أو أقل )",
+            "price": 350
+          },
+          {
+            "value": "مطبخ خارجي لفيلا ( 20 متر مربع أو أقل )",
+            "price": 350
+          },
+          {
+            "value": "مطبخ داخلي لفيلا ( 21 متر مربع إلى 35 متر مربع )",
+            "price": 400
+          },
+          {
+            "value": "مطبخ خارجي لفيلا ( 21 متر مربع إلى 35 متر مربع )",
+            "price": 450
+          },
+          { "value": "مطبخ شقة", "price": 320 },
+          { "value": "مطبخ مطعم", "price": 50 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "خدمة تنظيف المراتب",
+    "description": "",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1561316441-2ab442340b55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWF0cmVzcyUyMGNsZWFuaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR170 - SAR500",
+    " rating": 4,
+    "min_Price": 150,
+    "ordersPerDay": 2,
+    "types": {
+      "question": "نوع المرتبه",
+      "options": [
+        "مرتبة كاليفورنيا حجم كنج",
+        "مرتبة حجم كنج ",
+        "مرتبة حجم كوين",
+        "مرتبة فرد حجم واسع",
+        "مرتبة فرد حجم عادي",
+        "مرتبة أطفال"
+      ]
+    },
+
+    "questions": [
+      {
+        "question": "الكمية",
+        "options": [
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "1 الكمية",
+            "price": 170
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "2 الكمية",
+            "price": 240
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "3 الكمية",
+            "price": 300
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "4 الكمية",
+            "price": 400
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "5 الكمية",
+            "price": 500
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "6 الكمية",
+            "price": 600
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "7 الكمية",
+            "price": 700
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "8 الكمية",
+            "price": 800
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "9 الكمية",
+            "price": 900
+          },
+          {
+            "type": "مرتبة كاليفورنيا حجم كنج",
+            "value": "10 الكمية",
+            "price": 1000
+          },
+          {
+            "type": "مرتبة حجم كنج ",
+            "value": "1 الكمية",
+            "price": 200
+          },
+          {
+            "type": "مرتبة حجم كنج ",
+            "value": "2 الكمية",
+            "price": 230
+          },
+          {
+            "type": "مرتبة حجم كنج ",
+            "value": "3 الكمية",
+            "price": 290
+          },
+          {
+            "type": "مرتبة حجم كنج ",
+            "value": "4 الكمية",
+            "price": 390
+          },
+          { "type": "مرتبة حجم كنج ", "value": "5 الكمية", "price": 490 },
+          { "type": "مرتبة حجم كنج ", "value": "6 الكمية", "price": 590 },
+          { "type": "مرتبة حجم كنج ", "value": "7 الكمية", "price": 690 },
+          { "type": "مرتبة حجم كنج ", "value": "8 الكمية", "price": 790 },
+          { "type": "مرتبة حجم كنج ", "value": "9 الكمية", "price": 890 },
+          { "type": "مرتبة حجم كنج ", "value": "10 الكمية", "price": 990 },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "1 الكمية",
+            "price": 200
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "2 الكمية",
+            "price": 200
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "3 الكمية",
+            "price": 250
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "4 الكمية",
+            "price": 340
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "5 الكمية",
+            "price": 400
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "6 الكمية",
+            "price": 490
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "7 الكمية",
+            "price": 590
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "8 الكمية",
+            "price": 690
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "9 الكمية",
+            "price": 790
+          },
+          {
+            "type": "مرتبة حجم كوين",
+            "value": "10 الكمية",
+            "price": 890
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "1 الكمية",
+            "price": 180
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "2 الكمية",
+            "price": 190
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "3 الكمية",
+            "price": 280
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "4 الكمية",
+            "price": 380
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "5 الكمية",
+            "price": 480
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "6 الكمية",
+            "price": 580
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "7 الكمية",
+            "price": 680
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "8 الكمية",
+            "price": 780
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "9 الكمية",
+            "price": 880
+          },
+          {
+            "type": "مرتبة فرد حجم واسع",
+            "value": "10 الكمية",
+            "price": 980
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "1 الكمية",
+            "price": 100
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "2 الكمية",
+            "price": 190
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "3 الكمية",
+            "price": 220
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "4 الكمية",
+            "price": 280
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "5 الكمية",
+            "price": 330
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "6 الكمية",
+            "price": 390
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "7 الكمية",
+            "price": 420
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "8 الكمية",
+            "price": 490
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "9 الكمية",
+            "price": 520
+          },
+          {
+            "type": "مرتبة فرد حجم عادي",
+            "value": "10 الكمية",
+            "price": 590
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "1 الكمية",
+            "price": 50
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "2 الكمية",
+            "price": 120
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "3 الكمية",
+            "price": 180
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "4 الكمية",
+            "price": 190
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "5 الكمية",
+            "price": 240
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "6 الكمية",
+            "price": 290
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "7 الكمية",
+            "price": 330
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "8 الكمية",
+            "price": 380
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "9 الكمية",
+            "price": 400
+          },
+          {
+            "type": "مرتبة أطفال",
+            "value": "10 الكمية",
+            "price": 480
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "خدمة تنظيف الستائر",
+    "description": "خدمة الغسيل والتجفيف بنفس المكان والستارة راكبة",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1678304224375-2c0052a1b4ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3VydGFpbiUyMGNsZWFuaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR150 - SAR640",
+    "rating": 4,
+    "min_Price": 150,
+    "ordersPerDay": 4,
+    "types": null,
+    "questions": [
+      {
+        "question": "حجم الستاره",
+        "options": [
+          { "value": "أقل من 16 متر مربع", "price": 150 },
+          { "value": "16 متر مربع", "price": 160 },
+          { "value": "18 متر مربع", "price": 180 },
+          { "value": "20 متر مربع", "price": 200 },
+          { "value": "21 متر مربع", "price": 210 },
+          { "value": "24 متر مربع", "price": 240 },
+          { "value": "25 متر مربع", "price": 250 },
+          { "value": "28 متر مربع", "price": 280 },
+          { "value": "30 متر مربع", "price": 300 },
+          { "value": "32 متر مربع", "price": 320 },
+          { "value": "35 متر مربع", "price": 350 },
+          { "value": "36 متر مربع", "price": 360 },
+          { "value": "40 متر مربع", "price": 400 },
+          { "value": "42 متر مربع", "price": 420 },
+          { "value": "56 متر مربع", "price": 560 },
+          { "value": "64 متر مربع", "price": 640 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "title": "خدمة التنظيف العميق للشقق والفلل",
+    "description": "التنظيف العميق يتم فيها تنظيف الشقق والفلل بالكامل مع الأثاث أو بدون الأثاث من جدران وشبابيك وارضيات وغرف نوم ومطابخ وحمامات",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFqYWxlcyUyMGRlZXAlMjBjbGVhbmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Home cleaning",
+    "range": "SAR2.5k - SAR25k",
+    "rating": 4,
+    "min_Price": null,
+    "ordersPerDay": 2,
+    "types": {
+      "question": "الأثاث",
+      "options": ["مع الأثاث", "بدون الأثاث"]
+    },
+
+    "questions": [
+      {
+        "question": "مكان التنظيف",
+        "options": [
+          {
+            "type": "مع الأثاث",
+            "value": "شقه بغرفة نوم - صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "شقه بغرفتين نوم - صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "شقه ب 3 غرف نوم - 2 صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "فيلا بغرفتين نوم - 2 صاله - 1 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "فيلا ب 3 غرف نوم - 2 صاله - 2 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "مع الأثاث",
+            "value": "فيلا ب 4 غرف نوم - 2 صاله - 2 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "شقه بغرفة نوم - صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "شقه بغرفتين نوم - صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "شقه ب 3 غرف نوم - 2 صاله - مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "فيلا بغرفتين نوم - 2 صاله - 1 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "فيلا ب 3 غرف نوم - 2 صاله - 2 مجلس - حمامات ومطبخ",
+            "price": 50
+          },
+          {
+            "type": "بدون الأثاث",
+            "value": "فيلا ب 4 غرف نوم - 2 صاله - 2 مجلس - حمامات ومطبخ",
+            "price": 50
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "title": "تنظيف وتلميع الأرضيات",
+    "description": "",
+    "details": [
+      "- تكلفة الخدمة الموضحة هي للزيارة والمعاينة، ويحدد المبلغ النهائي للخدمة بعد الزيارة",
+      "- تقدم الخدمة تنظيف أو جلي أو تلميع الأرضيات، وبحسب نوع الخدمة المطلوبة من العميل",
+      "- يتم التركيز على إزالة الأوساخ من المسام وإزالة البقع واستعادة اللمعان.",
+      "- الخدمة مقدمة لجميع أنواع الأرضيات من رخام وسيراميك وبورسلان وبلاط موزاييكو.",
+      "- فريق محترف لتقديم الخدمة."
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1677234148093-0115f38be0e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FycGV0JTIwY2xlYW5pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Home cleaning",
+    "range": "SAR200k - SAR1000",
+    "rating": 4,
+    "min_Price": 150,
+    "ordersPerDay": 2,
+    "types": null,
+    "questions": [
+      {
+        "question": "نوع البلاط",
+        "options": [
+          { "value": "بلاط موزاييكو", "price": 50 },
+          { "value": "رخام", "price": 50 },
+          { "value": "سيراميك", "price": 50 },
+          { "value": "بورسلان", "price": 50 },
+          { "value": "باركيه", "price": 50 },
+          { "value": "جيرانيت", "price": 50 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "title": "خدمة تنظيف الأثاث",
+    "description": "ملاحظة: يتم تسعيرة الأصناف بسعر تنظيف القطعه",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZ1cm5pdHVyZSUyMGNsZWFuaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Accessories cleaning",
+    "range": "SAR20 - SAR300",
+    " rating": 4,
+    "min_Price": 180,
+    "ordersPerDay": 2,
+    "types": {
+      "question": "نوع الأثــاث",
+      "options": ["اثاث قطن", "أثاث شمواه", "أثاث جلد"]
+    },
+
+    "questions": [
+      {
+        "question": "نوع الأثــاث",
+        "options": [
+          {
+            "type": "اثاث قطن",
+            "value": "كرسي خشب مع مسند لليد لغرفة المعيشة",
+            "price": 30
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "كرسي لغرفة المعيشة",
+            "price": 30
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "أريكة  بمقعدين",
+            "price": 70
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "أريكة  ب 3 مقاعد",
+            "price": 90
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "أريكة  ب 4 مقاعد",
+            "price": 120
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "اريكة على شكل حرف L",
+            "price": 180
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "كرسي مائدة طعام، قاعدة و ظهر",
+            "price": 25
+          },
+          {
+            "type": "اثاث قطن",
+            "value": "كرسي مائدة طعام، قاعدة فقط",
+            "price": 20
+          },
+
+          {
+            "type": "أثاث شمواه",
+            "value": "كرسي خشب مع مسند لليد لغرفة المعيشة",
+            "price": 45
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "كرسي لغرفة المعيشة",
+            "price": 45
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "أريكة  بمقعدين",
+            "price": 100
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "أريكة  ب 3 مقاعد",
+            "price": 150
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "أريكة  ب 4 مقاعد",
+            "price": 190
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "اريكة على شكل حرف L",
+            "price": 300
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "كرسي مائدة طعام، قاعدة و ظهر",
+            "price": 35
+          },
+          {
+            "type": "أثاث شمواه",
+            "value": "كرسي مائدة طعام، قاعدة فقط",
+            "price": 25
+          },
+
+          {
+            "type": "أثاث جلد",
+            "value": "كرسي خشب مع مسند لليد لغرفة المعيشة",
+            "price": 45
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "كرسي لغرفة المعيشة",
+            "price": 45
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "أريكة  بمقعدين",
+            "price": 100
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "أريكة  ب 3 مقاعد",
+            "price": 150
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "أريكة  ب 4 مقاعد",
+            "price": 170
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "اريكة على شكل حرف L",
+            "price": 300
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "كرسي مائدة طعام، قاعدة و ظهر",
+            "price": 35
+          },
+          {
+            "type": "أثاث جلد",
+            "value": "كرسي مائدة طعام، قاعدة فقط",
+            "price": 25
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "title": "خدمة مكافحة الحشرات",
+    "description": "",
+    "details": [
+      "تنظيف الاثاث بمواد اوروبية معطرة ومعقمة ",
+      "ازالة جميع البقع المستعصية",
+      "يجف خلال ساعتين ولا يترك اثر او رائحة",
+      " ضمان ذهبي في حال وجود اي خلل او ملاحظات"
+    ],
+    "image": "https://plus.unsplash.com/premium_photo-1661304818621-0fceeb066f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBlc3QlMjBjb250cm9sfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Pest control",
+    "range": "SAR199 - SAR350",
+    " rating": 4,
+    "min_Price": 180,
+    "ordersPerDay": 3,
+    "types": {
+      "question": "نوع المكافحة",
+      "options": [
+        "القوارض",
+        "بق الفراش / قراد البراغيث",
+        " النحل / الدبابير",
+        "مكافحة حشرات عامة"
+      ]
+    },
+
+    "questions": [
+      {
+        "question": "نوع المكافحة",
+        "options": [
+          {
+            "type": "القوارض",
+            "value": "شقة بغرفة نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "القوارض",
+            "value": "شقة بغرفتين نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "القوارض",
+            "value": "شقة ب 3 غرف نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "القوارض",
+            "value": "فيلا بغرفتين نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "القوارض",
+            "value": "فيلا ب 3 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "القوارض",
+            "value": "فيلا ب 4 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "شقة بغرفة نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "شقة بغرفتين نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "شقة ب 3 غرف نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "فيلا بغرفتين نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "فيلا ب 3 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "بق الفراش / قراد البراغيث",
+            "value": "فيلا ب 4 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "شقة بغرفة نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "شقة بغرفتين نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "شقة ب 3 غرف نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "فيلا بغرفتين نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "فيلا ب 3 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": " النحل / الدبابير",
+            "value": "فيلا ب 4 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "شقة بغرفة نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "شقة بغرفتين نوم مع ملحقاتها",
+            "price": 199
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "شقة ب 3 غرف نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "فيلا بغرفتين نوم مع ملحقاتها",
+            "price": 200
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "فيلا ب 3 غرف نوم مع ملحقاتها",
+            "price": 250
+          },
+          {
+            "type": "مكافحة حشرات عامة",
+            "value": "فيلا ب 4 غرف نوم مع ملحقاتها",
+            "price": 250
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "title": "العناية بالمساجد",
+    "description": "هذه الخدمة مخصصة للعناية بالمساجد من خلال تقديم خدمة تنظيف السجاد مع التعقيم تشمل الخدمة على:",
+    "details": [
+      "- تنظيف السجاد بواسطة مكائن مخصصة مع تعطير السجاد",
+      "- تنظيف الأرضيات المحيطة بالسجاد",
+      "- تنظيف الجدران الداخلية إلى مترين وإزالة الغبار من على الأرفف",
+      "- تعقيم المسجد بعد الانتهاء من الخدمة مجانا",
+      "ملاحظة: تنظيف مرافق المسجد (تكلفة اضافية تحدد بحسب الطلب وبعد الزيارة)"
+    ],
+    "image": "https://images.unsplash.com/photo-1549565398-b8d75023348e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fE1vc3F1ZSUyMGNhcmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Home cleaning",
+    "range": "SAR800 - SAR3000",
+    "rating": 4,
+    "min_Price": 150,
+    "ordersPerDay": 2,
+    "types": null,
+    "questions": [
+      {
+        "question": "مساحة المسجد",
+        "options": [
+          { "value": "مساحة أقل من 200 متر مربع", "price": 800 },
+          { "value": "مساحة ما بين 200 إلى 300 متر مربع", "price": 1100 },
+          {
+            "value": "مساحة ما بين 300 إلى 1000 متر مربع",
+            "price": "5 ريال للمتر الواحد"
+          },
+          {
+            "value": "مساحة أكبر من 1000 متر مربع",
+            "price": "4 ريال للمتر الواحد"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "بكج العروس",
+    "description": "",
+    "details": [
+      "مساج سويدي",
+      "حمام مغربي",
+      "إزالة شعر الجسم",
+      "بدكير ومناكير",
+      "تنظيف بشره",
+      "بارافين ايدي وارجل",
+      "قص شعر",
+      "تسريحة ",
+      "مكياج",
+      "صبغه",
+      "حف وجه",
+      "تشقير وصبغة حواجب",
+      "حمام زيت",
+      "السعر قبل الخصم-SAR 2660",
+      "السعر بعد الخصم-SAR 2362 "
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR2660",
+    "rating": 4,
+    "min_Price": 2362,
+    "ordersPerDay": 2,
+    "price": 2362,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 13,
+    "title": "بكج البسيط",
+    "description": "",
+    "details": [
+      "مساج سويدي",
+      "بدكير ومناكير",
+      "السعر قبل الخصم-SAR 350",
+      "السعر بعد الخصم-SAR 245 "
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR350",
+    "rating": 4,
+    "min_Price": 245,
+    "ordersPerDay": 2,
+    "price": 245,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 14,
+    "title": "بكج الفخامة",
+    "description": "",
+    "details": [
+      "إزالة شعر الجسم",
+      "مساج سويدي",
+      "بدكير ومناكير",
+      "بارافين ايدي وارجل",
+      "السعر قبل الخصم-SAR 800",
+      "السعر بعد الخصم-SAR 560"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR560",
+    "rating": 4,
+    "min_Price": 560,
+    "ordersPerDay": 2,
+    "price": 560,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 15,
+    "title": "بكج الذهبي",
+    "description": "",
+    "details": [
+      "تنظيف بشره",
+      "حمام مغربي",
+      "بدكير ومناكير",
+      "مساج سويدي",
+      "السعر قبل الخصم-SAR 800",
+      "السعر بعد الخصم-SAR 560"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR560",
+    "rating": 4,
+    "min_Price": 560,
+    "ordersPerDay": 2,
+    "price": 560,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 16,
+    "title": "بكج السعادة",
+    "description": "",
+    "details": [
+      "حمام مغربي",
+      "مساج سويدي",
+      "بارافين ايدي وارجل",
+      "بدكير ومناكير",
+      "السعر قبل الخصم-SAR 750",
+      "السعر بعد الخصم-SAR 525"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR525",
+    "rating": 4,
+    "min_Price": 525,
+    "ordersPerDay": 2,
+    "price": 525,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 17,
+    "title": "بكج التوفير",
+    "description": "",
+    "details": [
+      "بارافين ايدي وارجل",
+      "بدكير ومناكير",
+      "مساج سويدي لمدة 45 دقيقة",
+      "السعر قبل الخصم-SAR 500",
+      "السعر بعد الخصم-SAR 350"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412912498-0447578fcca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJyaWRlJTIwbWFrZXVwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Cosmetic packages",
+    "range": "SAR350",
+    "rating": 4,
+    "min_Price": 350,
+    "ordersPerDay": 2,
+    "price": 350,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 18,
+    "title": "بكج الراحة",
+    "description": "",
+    "details": ["مساج استرخاء", "حمام مغربي", "بدكير ومنكير"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR380",
+    "rating": 4,
+    "min_Price": 380,
+    "ordersPerDay": 2,
+    "price": 380,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 19,
+    "title": "بكج الهدوء",
+    "description": "",
+    "details": ["مساج سويدي", "بدكير ومنكير", "برافين يد وارجل"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR320",
+    "rating": 4,
+    "min_Price": 320,
+    "ordersPerDay": 2,
+    "price": 320,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 20,
+    "title": "بكج السعادة",
+    "description": "",
+    "details": ["برافين يد وارجل", "مساج استرخاء", "بدكير ومنكير"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR299",
+    "rating": 4,
+    "min_Price": 299,
+    "ordersPerDay": 2,
+    "price": 299,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 21,
+    "title": "بكج الذهبي",
+    "description": "",
+    "details": [
+      "تنظيف بشره او حمام مغربي",
+      "بدكير ومنكير",
+      "مساج ساعه من اختيارك"
+    ],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR599",
+    "rating": 4,
+    "min_Price": 599,
+    "ordersPerDay": 2,
+    "price": 599,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 22,
+    "title": "بكج التوفير",
+    "description": "",
+    "details": ["تنظيف بشرة", "حمام مغربي عادي", "بدكير ومنكير"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR499",
+    "rating": 4,
+    "min_Price": 499,
+    "ordersPerDay": 2,
+    "price": 499,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 23,
+    "title": "بكج  المغربي",
+    "description": "",
+    "details": ["حمام مغربي  لشخصين"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR280",
+    "rating": 4,
+    "min_Price": 280,
+    "ordersPerDay": 2,
+    "price": 280,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 24,
+    "title": "بكج خاص",
+    "description": "",
+    "details": ["حمام مغربي", "منكير وبدكير", "حمام زيت"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR320",
+    "rating": 4,
+    "min_Price": 320,
+    "ordersPerDay": 2,
+    "price": 320,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 25,
+    "title": "بكج البشرة",
+    "description": "",
+    "details": [
+      "حمام مغربي بقناع الطين",
+      "منكير وبدكير بدون لون",
+      "برافين يد وارجل"
+    ],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR350",
+    "rating": 4,
+    "min_Price": 350,
+    "ordersPerDay": 2,
+    "price": 350,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 26,
+    "title": "بكج العنايه",
+    "description": "",
+    "details": ["حمام مغربي", "حمام زيت للشعر", "منكير وبدكير"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR329",
+    "rating": 4,
+    "min_Price": 329,
+    "ordersPerDay": 2,
+    "price": 329,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 27,
+    "title": "بكج المساج",
+    "description": "",
+    "details": ["مساج علاجي لشخصين لمدة ساعه"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR349",
+    "rating": 4,
+    "min_Price": 349,
+    "ordersPerDay": 2,
+    "price": 349,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 28,
+    "title": "بكج الدلع",
+    "description": "",
+    "details": ["تنظيف بشرة عميق", "حمام مغربي", "مساج لمدة 45 دقيقه"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR499",
+    "rating": 4,
+    "min_Price": 499,
+    "ordersPerDay": 2,
+    "price": 499,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 29,
+    "title": "بكج الاظافر",
+    "description": "",
+    "details": ["منكير وبدكير", "برافين يد وارجل", "لشخصين"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR429",
+    "rating": 4,
+    "min_Price": 429,
+    "ordersPerDay": 2,
+    "price": 429,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 30,
+    "title": "بكج  بسيط",
+    "description": "",
+    "details": ["منكير وبدكير", "استشوار أي طول"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR269",
+    "rating": 4,
+    "min_Price": 269,
+    "ordersPerDay": 2,
+    "price": 269,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 31,
+    "title": "بكج صغير",
+    "description": "",
+    "details": ["منكير وبدكير", "تنظيف بشرة عميق"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR359",
+    "rating": 4,
+    "min_Price": 359,
+    "ordersPerDay": 2,
+    "price": 359,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+  {
+    "id": 32,
+    "title": "بكج التوفير",
+    "description": "",
+    "details": ["حمام مغربي عادي", "مساج", "حمام زيت"],
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFzc2FnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "category": "Massage package",
+    "range": "SAR320",
+    "rating": 4,
+    "min_Price": 320,
+    "ordersPerDay": 2,
+    "price": 320,
+    "questions": [],
+    "types": {
+      "options": []
+    }
+  },
+
+  {
+    "id": 33,
+    "title": "باقة إزالة الشعر ",
+    "description": "",
+    "details": [
+      "جسم كامل",
+      "يد كامل",
+      "رجل كامل ",
+      "نص يد",
+      "نص رجل",
+      "وجه",
+      "شنب",
+      "بطن",
+      "تحت اليد",
+      "واكس"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR50 - SAR350",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة إزالة الشعر ",
+        "options": [
+          { "value": "جسم كامل", "price": 350 },
+          { "value": "يد كامل", "price": 100 },
+          { "value": "رجل كامل", "price": 100 },
+          { "value": "نص يد", "price": 50 },
+          { "value": "نص رجل", "price": 80 },
+          { "value": "وجه", "price": 80 },
+          { "value": "شنب", "price": 30 },
+          { "value": "بطن", "price": 70 },
+          { "value": "تحت اليد", "price": 50 },
+          { "value": "واكس", "price": 250 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 34,
+    "title": "باقة منكير",
+    "description": "",
+    "details": [
+      "مناكير عادي",
+      "مناكير ملكي",
+      "تركيب أظافر عادي",
+      "تركيب أظافر أكريلك",
+      "لون عادي",
+      "لون فرنسي"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة منكير",
+        "options": [
+          { "value": "مناكير عادي", "price": 100 },
+          { "value": "مناكير ملكي", "price": 125 },
+          { "value": "تركيب أظافر عادي", "price": 180 },
+          { "value": "تركيب أظافر أكريلك", "price": 400 },
+          { "value": "لون عادي", "price": 50 },
+          { "value": "لون فرنسي", "price": 120 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 35,
+    "title": "باقة بدكير",
+    "description": "",
+    "details": ["بدكير عادي", "بدكير ملكي", "بدكير بلاتيني"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR80 - SAR200",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "",
+        "options": [
+          { "value": "بدكير عادي", "price": 100 },
+          { "value": "بدكير ملكي", "price": 125 },
+          { "value": "بدكير بلاتيني", "price": 200 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 36,
+    "title": "باقة تنظيف البشرة",
+    "description": "",
+    "details": [
+      "تنظيف بشرة عادي",
+      "تنظيف بشره عميق",
+      "تنظيف بشره مع فيتامين د",
+      "تنظيف بشرة بالكولاجين",
+      "فيشل التنظيف العميق وماسك الترطيب",
+      "فيشل قناع الذهب لأعادة الحيوية والنظاره",
+      "برنامج تقشير الكلف وازالته",
+      "جلسة الاكسجين لعلاج البشره المتعبه",
+      "جلسه قناع لشد وترطيب البشره"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR150 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "",
+        "options": [
+          { "value": "تنظيف بشرة عادي", "price": 200 },
+          { "value": "تنظيف بشره عميق", "price": 250 },
+          { "value": "تنظيف بشره مع فيتامين د", "price": 300 },
+          { "value": "تنظيف بشرة بالكولاجين", "price": 175 },
+          { "value": "فيشل التنظيف العميق وماسك الترطيب", "price": 250 },
+          { "value": "فيشل قناع الذهب لأعادة الحيوية والنظاره", "price": 360 },
+          { "value": "برنامج تقشير الكلف وازالته", "price": 400 },
+          { "value": "جلسة الاكسجين لعلاج البشره المتعبه", "price": 450 },
+          { "value": "جلسه قناع لشد وترطيب البشره", "price": 480 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 37,
+    "title": "باقة مساج",
+    "description": "",
+    "details": [
+      "مساج عادي",
+      "مساج سويدي",
+      "مساج الأحجار",
+      "كاسات الهواء",
+      "مساج الحامل",
+      "مساج كامل الجسم",
+      "مساج النفاس",
+      "مساج الأطفال",
+      "مساج رقبة وأكتاف"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة مساج",
+        "options": [
+          { "value": "مساج عادي", "price": 200 },
+          { "value": "مساج سويدي", "price": 350 },
+          { "value": "مساج الأحجار", "price": 300 },
+          { "value": "كاسات الهواء", "price": 350 },
+          { "value": "مساج الحامل", "price": 300 },
+          { "value": "مساج كامل الجسم", "price": 300 },
+          { "value": "مساج النفاس", "price": 200 },
+          { "value": "مساج الأطفال", "price": 100 },
+          { "value": "مساج رقبة وأكتاف", "price": 100 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 38,
+    "title": "باقة برافين",
+    "description": "",
+    "details": [
+      "بارافين ايدي",
+      "بارافين أرجل",
+      "بالأكواع والركب",
+      "سكراب جسم بأملاح البحر",
+      "سكراب جسم عادي",
+      "بطانيه حراريه",
+      "سكراب بخلاصة العسل",
+      "سكراب بخلاصة القهوة"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة برافين",
+        "options": [
+          { "value": "بارافين ايدي", "price": 150 },
+          { "value": "بارافين أرجل", "price": 200 },
+          { "value": "بالأكواع والركب", "price": 250 },
+          { "value": "سكراب جسم بأملاح البحر", "price": 400 },
+          { "value": "سكراب جسم عادي", "price": 200 },
+          { "value": "بطانيه حراريه", "price": 200 },
+          { "value": "سكراب بخلاصة العسل", "price": 200 },
+          { "value": "سكراب بخلاصة القهوة", "price": 200 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 39,
+    "title": "باقة مكياج",
+    "description": "",
+    "details": [
+      "مكياج عادي ",
+      "مكياج سهره",
+      "أساس جسم",
+      "مكياج عيون",
+      "مكياج كامل مع ماركه"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR100 - SAR700",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة مكياج",
+        "options": [
+          { "value": "مكياج عادي ", "price": 200 },
+          { "value": "مكياج سهره", "price": 400 },
+          { "value": "أساس جسم", "price": 100 },
+          { "value": "مكياج عيون", "price": 150 },
+          { "value": "مكياج كامل مع ماركه", "price": 700 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 40,
+    "title": "باقة تسريحات",
+    "description": "",
+    "details": [
+      "تسريحة شعر قصير",
+      "شعر وسط",
+      "شعر طويل",
+      "فير أو تكسير",
+      "فير ",
+      "ريتو"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR100 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة تسريحات",
+        "options": [
+          { "value": "تسريحة شعر قصير", "price": 175 },
+          { "value": "شعر وسط", "price": 290 },
+          { "value": "شعر طويل", "price": 345 },
+          { "value": "فير أو تكسير", "price": 100 },
+          { "value": "فير ", "price": 250 },
+          { "value": "ريتو", "price": 250 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 41,
+    "title": "باقة قص الشعر",
+    "description": "",
+    "details": ["قص شعر كامل", "قص أطراف شعر", "قص غره", "قص بالمكينه"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR150",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة قص الشعر",
+        "options": [
+          { "value": "قص شعر كامل", "price": 120 },
+          { "value": "قص أطراف شعر", "price": 85 },
+          { "value": "قص غره", "price": 40 },
+          { "value": "قص بالمكينه", "price": 120 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 42,
+    "title": "باقة الاستشوار",
+    "description": "",
+    "details": ["استشوار عادي", "شعر قصير", "شعر طويل", "ويفي", "ليس"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR50 - SAR350",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة الاستشوار",
+        "options": [
+          { "value": "استشوار عادي", "price": 150 },
+          { "value": "شعر قصير", "price": 70 },
+          { "value": "شعر طويل", "price": 150 },
+          { "value": "ويفي", "price": 360 },
+          { "value": "ليس", "price": 310 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 43,
+    "title": "باقة  الحواجب",
+    "description": "",
+    "details": ["رفع الحواجب", "صبغة حواجب", "تشقير حواجب"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة  الحواجب",
+        "options": [
+          { "value": "رفع الحواجب", "price": 414 },
+          { "value": "صبغة حواجب", "price": 40 },
+          { "value": "تشقير حواجب", "price": 40 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 44,
+    "title": "باقة  حمام مغربي",
+    "description": "",
+    "details": [
+      "حمام عادي",
+      "حمام بالتوت البري",
+      "مغربي بالأعشاب",
+      "مغربي باللوز",
+      "تفتيح بشره",
+      "جلسة علاج حبوب",
+      "مغربي بالطين",
+      "حمام مغربي عود وعنبر"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة  حمام مغربي",
+        "options": [
+          { "value": "حمام عادي", "price": 200 },
+          { "value": "حمام بالتوت البري", "price": 250 },
+          { "value": "مغربي بالأعشاب", "price": 300 },
+          { "value": "مغربي باللوز", "price": 250 },
+          { "value": "تفتيح بشره", "price": 450 },
+          { "value": "جلسة علاج حبوب", "price": 450 },
+          { "value": "مغربي بالطين", "price": 150 },
+          { "value": "حمام مغربي عود وعنبر", "price": 550 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 45,
+    "title": "باقة صبغة الشعر",
+    "description": "",
+    "details": ["لون واحد", "لونين", "صبغة جذور", "لون مع خصل"],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة صبغة الشعر",
+        "options": [
+          { "value": "لون واحد", "price": 300 },
+          { "value": "لونين", "price": 345 },
+          { "value": "صبغة جذور", "price": 150 },
+          { "value": "لون مع خصل", "price": 500 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 46,
+    "title": "باقة  البروتين",
+    "description": "",
+    "details": [
+      "شعر قصير",
+      "شعر وسط",
+      "شعر طويل",
+      "شعر طويل جدا",
+      "للشعر المصبوغ",
+      "فلير اللولو",
+      "جلسة كافيار"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR500",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة  البروتين",
+        "options": [
+          { "value": "شعر قصير", "price": 500 },
+          { "value": "شعر وسط", "price": 700 },
+          { "value": "شعر طويل", "price": 1000 },
+          { "value": "شعر طويل جدا", "price": 1200 },
+          { "value": "للشعر المصبوغ", "price": 700 },
+          { "value": "فلير اللولو", "price": 250 },
+          { "value": "جلسة كافيار", "price": 300 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 47,
+    "title": "باقة حمام زيت",
+    "description": "",
+    "details": [
+      "حمام زيت عادي",
+      "ماسك للشعر",
+      "كولاجين للشعر",
+      "تقشير الفروه",
+      "جلسة الأرجان",
+      "جلسة تطهير فروة الرأس",
+      "بعد البروتين",
+      "الشعر المصبوغ"
+    ],
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlYXV0eSUyMHBhY2thZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "category": "Beauty packages",
+    "range": "SAR30 - SAR900",
+    "rating": 4,
+    "min_Price": 0,
+    "ordersPerDay": 1,
+    "types": {
+      "options": []
+    },
+    "questions": [
+      {
+        "question": "باقة حمام زيت",
+        "options": [
+          { "value": "حمام زيت عادي", "price": 110 },
+          { "value": "ماسك للشعر", "price": 50 },
+          { "value": "كولاجين للشعر", "price": 800 },
+          { "value": "تقشير الفروه", "price": 250 },
+          { "value": "جلسة الأرجان", "price": 300 },
+          { "value": "جلسة تطهير فروة الرأس", "price": 300 },
+          { "value": "بعد البروتين", "price": 380 },
+          { "value": "الشعر المصبوغ", "price": 350 }
+        ]
+      }
+    ]
+  }
+]
