@@ -31,7 +31,7 @@ const AdminLogin = () => {
   const params = useParams()
   const navigate = useNavigate()
 const location = useLocation()
-console.log(location)
+
   const searchQuery = params.name
   const [showPassword, setShowPassword] = React.useState(false)
 
@@ -45,8 +45,8 @@ console.log(location)
   // const history = useHistory();
 
   const initialState = {
-    email: "",
-    password: "",
+    Admin_email: "",
+    Admin_password: "",
   }
 
   const [loginData, setLoginData] = useState(initialState)
@@ -72,13 +72,13 @@ console.log(location)
     let isValid = true
     const newErrors = {}
 
-    if (!loginData.email) {
-      newErrors.email = "Email is required"
+    if (!loginData.Admin_email) {
+      newErrors.Admin_email = "Email is required"
       isValid = false
     }
 
-    if (!loginData.password) {
-      newErrors.password = "Password is required"
+    if (!loginData.Admin_password) {
+      newErrors.Admin_password = "Password is required"
       isValid = false
     }
 
@@ -89,44 +89,41 @@ console.log(location)
   const handleSubmit = async (e) => {
     e.preventDefault()
 
-    if(validateForm()){
-      if(loginData.email==='admin@tadalal.com' && loginData.password==='admin@tadalal'){
-
-        navigate(location.state.from || "/admin")
-        adminLogin(loginData.email)
-
-      } else{
-        setShowSnackbar(true)
-        console.log("adminLogin false")
-      }
-    }
-
     // if (validateForm()) {
-    //   try {
-    //     const response = await axios.post(
-    //       `http://54.90.98.169/userLogin`,
-    //       loginData
-    //     )
-
-    //     login(response.data)
-    //     if ((response.data.msg = "User Login successfully")) {
-    //       if (searchQuery) {
-    //         navigate(`/services/${searchQuery}/selecttype`)
-    //       } else {
-    //         navigate("/")
-    //       }
-    //     } else {
-    //       setShowSnackbar(true)
-    //     }
-
-    //     if (response.data.msg != "User Login successfully") {
-    //       setShowSnackbar(true)
-    //     }
-    //   } catch (error) {
+    //   if (
+    //     loginData.Admin_email === "admin@tadalal.com" &&
+    //     loginData.Admin_password === "admin@tadalal"
+    //   ) {
+    //     navigate(location.state.from || "/admin")
+    //     adminLogin(loginData.Admin_email)
+    //   } else {
     //     setShowSnackbar(true)
-    //     console.error("Login failed:", error)
+    //     console.log("adminLogin false")
     //   }
     // }
+
+    if (validateForm()) {
+      try {
+        const response = await axios.post(
+          `http://54.90.98.169/adminLogin`,
+          loginData
+        )
+
+        adminLogin(response.data.data)
+        if ((response.data.status = "true")) {
+          navigate(location.state.from || "/admin")
+        } else {
+          setShowSnackbar(true)
+        }
+
+        if (response.data.status = "false") {
+          setShowSnackbar(true)
+        }
+      } catch (error) {
+        setShowSnackbar(true)
+        console.error("Login failed:", error)
+      }
+    }
   }
   return (
     <Box>
@@ -135,15 +132,15 @@ console.log(location)
           <Box>
             <form onSubmit={handleSubmit}>
               <TextField
-                id="email"
-                label="Email"
+                id="Admin_email"
+                label="Admin_email"
                 margin="normal"
-                name="email"
+                name="Admin_email"
                 type="email"
-                value={loginData.email}
+                value={loginData.Admin_email}
                 onChange={handleInputChange}
-                error={!!errors.email}
-                helperText={errors.email}
+                error={!!errors.Admin_email}
+                helperText={errors.Admin_email}
                 variant="standard"
                 fullWidth
               />
@@ -152,15 +149,15 @@ console.log(location)
                 variant="standard"
               >
                 <TextField
-                  label="Password"
-                  name="password"
-                  value={loginData.password}
+                  label="Admin_password"
+                  name="Admin_password"
+                  value={loginData.Admin_password}
                   onChange={handleInputChange}
                   variant="standard"
                   fullWidth
                   margin="normal"
-                  error={!!errors.password}
-                  helperText={errors.password}
+                  error={!!errors.Admin_password}
+                  helperText={errors.Admin_password}
                   id="standard-adornment-password"
                   type={showPassword ? "text" : "password"}
                   InputProps={{

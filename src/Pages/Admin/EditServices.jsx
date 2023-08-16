@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from "react"
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 
@@ -7,6 +7,7 @@ import axios from "axios";
 import DeleteIcon from '@mui/icons-material/Delete';
 import EditNoteIcon from '@mui/icons-material/EditNote';
 import AddIcon from '@mui/icons-material/Add';
+import {AdminAuthContext} from '../Context/AdminAuthContext'
 
 const EditServices = () => {
 
@@ -41,6 +42,8 @@ const EditServices = () => {
     min_Price: 0,
   }
 
+const { admin } = useContext(AdminAuthContext)
+
   const [services, setServices] = useState([]);
   const [editingService, setEditingService] = useState(null);
   const [serviceForm, setServiceForm] = useState(initialServiceForm);
@@ -52,12 +55,17 @@ const [error, setError] = useState('');
 const [searchInput, setSearchInput] = useState('');
 const [filteredServices, setFilteredServices] = useState([]);
 
+const [adminId,setAdminId] = useState("")
+const [adminToken,setAdminToken] = useState("")
+
 const availableTypes = serviceForm.types?.options.map((option) => option)
+const adminData = JSON.parse(localStorage.getItem("admin"))
 
 
   useEffect(() => {
     fetchServices();
   }, []);
+
 
   const fetchServices = async () => {
     try {
@@ -105,7 +113,15 @@ const availableTypes = serviceForm.types?.options.map((option) => option)
       return;
     }
     try {
-      await axios.post("http://54.90.98.169/Add-Services", serviceForm)
+      await axios.post(
+        `http://54.90.98.169/${adminData._id}/Add-Services`,serviceForm,{
+            headers: {
+              Authorization: `${adminData.token}`,
+              "Content-Type": "application/json",
+            }
+          }
+        
+      )
       
     } catch (error) {
       console.error(error);
@@ -123,14 +139,20 @@ const availableTypes = serviceForm.types?.options.map((option) => option)
 
   const handleUpdate = async () => {
     const updatedService = {
-      id: editingService.id,
+      _id: editingService._id,
       ...serviceForm,
     };
 
     try {
       await axios.put(
-        `https://lazy-ruby-shawl.cyclic.app/arabicHomeServices/${editingService.id}`,
-        updatedService
+        `http://54.90.98.169/${adminData._id}/Update-Service`,
+        updatedService,
+        {
+          headers: {
+            Authorization: `${adminData.token}`,
+            "Content-Type": "application/json",
+          },
+        }
       )  
       
     } catch (error) {
@@ -146,10 +168,17 @@ const availableTypes = serviceForm.types?.options.map((option) => option)
   };
 
   const handleDelete = async (service) => {
-    console.log(service._id)
+    
     try {
       await axios.delete(
-      `http://54.90.98.169/${service._id}/Delete-Service`
+        `http://54.90.98.169/${adminData._id}/Delete-Service`,
+        { 
+          data:{_id:service._id},
+          headers: {
+            Authorization: `${adminData.token}`,
+            "Content-Type": "application/json",
+          },
+        }
       )
       
     } catch (error) {
